@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DenkMybu
 - 👀 I’m interested in physics, computing science, and mathematics
-- 🌱 I’m currently learning root language
-- 💞️ I’m looking to collaborate on any project that concerns physics 
-- 📫 How to reach me : raph0803@gmail.com 
+- 🌱 I’m a 2nd year doctoral student working for the CMS collaboration
+- 📫 You can reach me here if you want more informations : raph0803@gmail.com 
 
 <!---
 DenkMybu/DenkMybu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
