@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RaphaelH
+- 👋 Hi, I’m Raphael Haberle, Ph.D in particle physics
 - 👀 I’m interested in physics, computing science, and mathematics
-- 🌱 I’m a 3rd year doctoral student working for the CMS collaboration
+- 🌱 Currently working for the CMS collaboration on the HSCP analysis : https://cds.cern.ch/record/2893595
 - 📫 You can reach me here if you want more informations : raph0803@gmail.com 
 
 <!---
