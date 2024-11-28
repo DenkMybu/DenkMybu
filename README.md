@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Raphael Haberle, Ph.D in particle physics
+- 👋 Hi, I’m Raphael Haberle, postdoc fellow at the Weizmann Institute of Science
 - 👀 I’m interested in physics, computing science, and mathematics
-- 🌱 Currently working for the CMS collaboration on the HSCP analysis : https://cds.cern.ch/record/2893595
+- 🌱 Obtained my Ph.D in 2024 with the CMS experiment on the search for HSCP : https://cds.cern.ch/record/2893595
+- 🌱 Currently working for the ATLAS collaboration on the R(K*) analysis
 - 📫 You can reach me here if you want more informations : raph0803@gmail.com 
 
 <!---
